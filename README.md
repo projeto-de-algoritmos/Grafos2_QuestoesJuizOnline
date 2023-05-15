@@ -13,7 +13,15 @@
 Resolução de questões do juiz online beecrowd, sobre assunto de grafos 2. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### [Trip Programming](https://www.beecrowd.com.br/judge/en/problems/view/2731)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_QuestoesJuizOnline/blob/master/TripProgramming/TripProgramming.c)<br>
+![Trip Programming](https://github.com/projeto-de-algoritmos/Grafos2_QuestoesJuizOnline/blob/master/Assets/TripProgrammingExecucao.jpg)
+
+
+### [Dark Roads](https://www.beecrowd.com.br/judge/en/problems/view/1152)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_QuestoesJuizOnline/blob/master/DarkRoads/DarkRoads.c)<br>
+![Dark Roads](https://github.com/projeto-de-algoritmos/Grafos2_QuestoesJuizOnline/blob/master/Assets/DarkRoadsExecucao.jpg)
 
 ## Instalação 
 **Linguagem**: C<br>
