@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0084642  |  Arthur Taylor de Jesus Popov |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0125910  |  itallo c gravina |
 
 ## Sobre 
 Resolução de questões do juiz online beecrowd, sobre assunto de grafos 2. 
@@ -22,6 +22,10 @@ Resolução de questões do juiz online beecrowd, sobre assunto de grafos 2.
 ### [Dark Roads](https://www.beecrowd.com.br/judge/en/problems/view/1152)
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_QuestoesJuizOnline/blob/master/DarkRoads/DarkRoads.c)<br>
 ![Dark Roads](https://github.com/projeto-de-algoritmos/Grafos2_QuestoesJuizOnline/blob/master/Assets/DarkRoadsExecucao.jpg)
+
+### [Garoto Ixpertinho](https://www.beecrowd.com.br/judge/pt/problems/view/2490)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_QuestoesJuizOnline/blob/master/Garoto%20Ixpertinho/GarotoIxpertinho.c)<br>
+![Garoto Ixpertinho](https://github.com/projeto-de-algoritmos/Grafos2_QuestoesJuizOnline/blob/master/Garoto%20Ixpertinho/Captura%20de%20tela%20de%202023-05-15%2020-40-00.png)
 
 ## Instalação 
 **Linguagem**: C<br>
